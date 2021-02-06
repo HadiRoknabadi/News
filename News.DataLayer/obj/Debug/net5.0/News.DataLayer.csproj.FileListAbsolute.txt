@@ -1,0 +1,15 @@
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.csprojAssemblyReference.cache
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.AssemblyInfoInputs.cache
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.AssemblyInfo.cs
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.csproj.CoreCompileInputs.cache
+/home/mmd/Desktop/News/News.DataLayer/bin/Debug/net5.0/News.DataLayer.deps.json
+/home/mmd/Desktop/News/News.DataLayer/bin/Debug/net5.0/News.DataLayer.runtimeconfig.json
+/home/mmd/Desktop/News/News.DataLayer/bin/Debug/net5.0/News.DataLayer.runtimeconfig.dev.json
+/home/mmd/Desktop/News/News.DataLayer/bin/Debug/net5.0/News.DataLayer.dll
+/home/mmd/Desktop/News/News.DataLayer/bin/Debug/net5.0/ref/News.DataLayer.dll
+/home/mmd/Desktop/News/News.DataLayer/bin/Debug/net5.0/News.DataLayer.pdb
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.dll
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/ref/News.DataLayer.dll
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.pdb
+/home/mmd/Desktop/News/News.DataLayer/obj/Debug/net5.0/News.DataLayer.genruntimeconfig.cache

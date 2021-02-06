@@ -1,0 +1,21 @@
+# sln => 
+/News.sln
+
+# Web => 
+/News.Web/obj
+/News.Web/bin
+/News.Web/Properties
+/News.Web/News.Web.csproj
+/News.Web/appsettings.json
+
+# Core => 
+/News/News.Core/bin
+/News/News.Core/obj
+/News/News.Core/News.Core.csproj
+
+
+# DataLayer => 
+/News/News.DataLayer/bin
+/News/News.DataLayer/obj
+/News/News.DataLayer/News.DataLayer.csproj
+/News/News.DataLayer/Migrations

@@ -1,0 +1,28 @@
+﻿@model ErrorViewModel
+@{
+    ViewData["Title"] = "خطا";
+    Layout = "~/Views/Shared/_DefaultLayout.cshtml";
+}
+
+<div class="error-page text-center">
+    <div class="error-code">
+        @if (Model.ErrorCode != 0)
+        {
+            <h2><strong>@Model.ErrorCode</strong></h2>
+        }
+        else
+        {
+            <h2><strong>نامشخص</strong></h2>
+
+        }
+    </div>
+    <div class="error-message">
+        <h3>@Model.ErrorMessage</h3>
+    </div>
+    <div class="error-body">
+        از دکمه زیر برای رفتن به صفحه اصلی استفاده کنید <br>
+        <a href="/" class="btn btn-primary margin-bottom-15">بازگشت به صفحه اصلی</a>
+    </div>
+</div>
+
+

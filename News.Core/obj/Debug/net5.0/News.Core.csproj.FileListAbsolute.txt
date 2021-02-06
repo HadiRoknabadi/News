@@ -1,0 +1,15 @@
+/home/mmd/Desktop/News/News.Core/bin/Debug/net5.0/News.Core.deps.json
+/home/mmd/Desktop/News/News.Core/bin/Debug/net5.0/News.Core.dll
+/home/mmd/Desktop/News/News.Core/bin/Debug/net5.0/ref/News.Core.dll
+/home/mmd/Desktop/News/News.Core/bin/Debug/net5.0/News.Core.pdb
+/home/mmd/Desktop/News/News.Core/bin/Debug/net5.0/News.DataLayer.dll
+/home/mmd/Desktop/News/News.Core/bin/Debug/net5.0/News.DataLayer.pdb
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.csprojAssemblyReference.cache
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.AssemblyInfoInputs.cache
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.AssemblyInfo.cs
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.csproj.CoreCompileInputs.cache
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.csproj.CopyComplete
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.dll
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/ref/News.Core.dll
+/home/mmd/Desktop/News/News.Core/obj/Debug/net5.0/News.Core.pdb
