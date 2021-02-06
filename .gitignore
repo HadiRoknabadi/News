@@ -9,13 +9,13 @@
 /News.Web/appsettings.json
 
 # Core => 
-/News/News.Core/bin
-/News/News.Core/obj
-/News/News.Core/News.Core.csproj
+/News.Core/bin
+/News.Core/obj
+/News.Core/News.Core.csproj
 
 
 # DataLayer => 
-/News/News.DataLayer/bin
-/News/News.DataLayer/obj
-/News/News.DataLayer/News.DataLayer.csproj
-/News/News.DataLayer/Migrations
+/News.DataLayer/bin
+/News.DataLayer/obj
+/News.DataLayer/News.DataLayer.csproj
+/News.DataLayer/Migrations

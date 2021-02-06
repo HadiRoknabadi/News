@@ -26,6 +26,7 @@ namespace News.Web.Controllers
             this._signInManager = signInManager;
             this._userService = userService;
         }
+
         #region Register
         [Route("/Register")]
         public IActionResult Register()
@@ -65,7 +66,7 @@ namespace News.Web.Controllers
             return View(model);
         }
         #endregion
-        
+
         #region Login
         [Route("/Login")]
         public IActionResult Login(string ReturnUrl)
